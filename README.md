@@ -427,13 +427,9 @@ xcrun simctl spawn booted log stream --predicate 'subsystem contains "ActivityKi
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
-
-**FlutterByte2025 Team**
-- Repository: [CreativeToby02/live-activity-app](https://github.com/CreativeToby02/live-activity-app)
-- Branch: `rufai_ios_dynamic_island_widget_kit`
 
 ---
 
 **Note**: This project demonstrates advanced cross-platform integration techniques for Live Activities. The implementation provides a solid foundation for production applications requiring real-time notifications and Live Activity features across both major mobile platforms.
+# FlutterByte2025-Live-Acitivity-for-Android-and-iOS-flutter
 # FlutterByte2025-Live-Acitivity-for-Android-and-iOS-flutter
