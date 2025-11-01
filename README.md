@@ -73,9 +73,9 @@ The app simulates a **delivery tracking experience** with real-time progress upd
 |------------------------|------------------------|
 | ![Dynamic Island Preview](screenshots/step_4_preview_2.png) | ![Expanded View](screenshots/step_4_expanded.png) |
 
-| Live Activity Complete | Lock Screen View |
-|------------------------|------------------|
-| ![Delivery Complete](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-10-31%20at%2017.10.24.png) | ![Lock Screen Integration](screenshots/how_to_access_canva.png) |
+| Live Activity Complete | Group Overview |
+|------------------------|----------------|
+| ![Delivery Complete](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-10-31%20at%2017.10.24.png) | ![Group Overview](screenshots/Group%202.png) |
 
 </div>
 
