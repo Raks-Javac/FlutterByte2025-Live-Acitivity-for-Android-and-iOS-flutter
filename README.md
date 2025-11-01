@@ -58,10 +58,19 @@ The app simulates a **delivery tracking experience** with real-time progress upd
 ### 📱 Flutter App Interface
 
 <div align="center">
-
-| Flutter App | Live Activity Progress |
-|-------------|------------------------|
-| ![Flutter Interface](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-10-31%20at%2017.05.18.png) | ![Progress Tracking](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-10-31%20at%2017.10.11.png) |
+  
+<table>
+<tr>
+<td align="center">
+<strong>Flutter App</strong><br>
+<img src="screenshots/Simulator Screenshot - iPhone 17 Pro - 2025-10-31 at 17.05.18.png" width="300" alt="Flutter Interface">
+</td>
+<td align="center">
+<strong>Live Activity Progress</strong><br>
+<img src="screenshots/Simulator Screenshot - iPhone 17 Pro - 2025-10-31 at 17.10.11.png" width="300" alt="Progress Tracking">
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -69,13 +78,28 @@ The app simulates a **delivery tracking experience** with real-time progress upd
 
 <div align="center">
 
-| Dynamic Island Preview | Expanded Live Activity |
-|------------------------|------------------------|
-| ![Dynamic Island Preview](screenshots/step_4_preview_2.png) | ![Expanded View](screenshots/step_4_expanded.png) |
-
-| Live Activity Complete | Group Overview |
-|------------------------|----------------|
-| ![Delivery Complete](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202025-10-31%20at%2017.10.24.png) | ![Group Overview](screenshots/Group%202.png) |
+<table>
+<tr>
+<td align="center">
+<strong>Dynamic Island Preview</strong><br>
+<img src="screenshots/step_4_preview_2.png" width="300" alt="Dynamic Island Preview">
+</td>
+<td align="center">
+<strong>Expanded Live Activity</strong><br>
+<img src="screenshots/step_4_expanded.png" width="300" alt="Expanded View">
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>Live Activity Complete</strong><br>
+<img src="screenshots/Simulator Screenshot - iPhone 17 Pro - 2025-10-31 at 17.10.24.png" width="300" alt="Delivery Complete">
+</td>
+<td align="center">
+<strong>Group Overview</strong><br>
+<img src="screenshots/Group 2.png" width="300" alt="Group Overview">
+</td>
+</tr>
+</table>
 
 </div>
 
